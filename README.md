@@ -1,1 +1,1 @@
-# web
+# kakaocommerce counter for service desk.
